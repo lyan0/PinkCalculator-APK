@@ -1,24 +1,24 @@
-## 🎀 Pink Calculator
+##  Pink Calculator 🎀
 
 A simple pink-themed calculator app created as a learning project.
 
-## 📱 About
+##  About 📱
 
 Pink Calculator is a basic calculator application with a simple pink interface.
 It was created as a learning project to practice mobile app development and interface design.
 
-## 🛠️ Built With
+##  Built With 🛠️
 
 - MIT App Inventor — used to design and develop the application.
 - Android APK — exported from MIT App Inventor for installation and testing.
 
-## ✨ Features
+##  Features ✨
 
 - Basic arithmetic operations
 - Simple pink-themed interface
 - Easy-to-use design
 
-## 🎯 Learning Goals
+##  Learning Goals 🎯
 
 This project was created to:
 
@@ -29,6 +29,6 @@ This project was created to:
 
 The APK file is included in this repository for testing and learning purposes.
 
-## ⚠️ Disclaimer
+##  Disclaimer ⚠️
 
 This application is a personal learning project and is not intended for commercial use.
